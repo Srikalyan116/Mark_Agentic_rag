@@ -2,7 +2,7 @@
 
 A production-style AI application demonstrating Python, FastAPI, RAG, vector search, prompt engineering, tool use, agent workflows, debugging, and LLM API integration.
 
-## Why this project is useful for interviews
+
 
 This repo maps directly to AI/ML Engineer and LLM Application Engineer job requirements:
 
@@ -119,14 +119,3 @@ agentic-rag-assistant/
 └── README.md
 ```
 
-## Resume Description
-
-**Agentic RAG Assistant** — Built a production-style LLM application using FastAPI, Python, RAG, vector search, and agentic workflow orchestration. Implemented document ingestion, chunking, embedding-based retrieval, tool-use patterns, prompt templates, debugging traces, Dockerization, and CI testing.
-
-## GitHub Repository Name
-
-`agentic-rag-assistant`
-
-## GitHub Description
-
-`Production-style AI/LLM engineering project using FastAPI, RAG, vector search, agent workflows, prompt engineering, and tool-use patterns.`
