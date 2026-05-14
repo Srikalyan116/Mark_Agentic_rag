@@ -1,0 +1,1 @@
+Debugging AI systems requires checking prompt quality, retrieved context, embedding quality, vector database results, LLM API errors, latency, token limits, hallucination risk, and real-world failure cases. Good AI engineers log intermediate states and create tests for known failures.

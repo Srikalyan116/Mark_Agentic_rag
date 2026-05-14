@@ -1,0 +1,1 @@
+Agent frameworks such as LangChain, LangGraph, CrewAI, AutoGen, and Haystack help developers build LLM applications that can reason, use tools, retrieve knowledge, and coordinate multi-step workflows. LangGraph is useful for stateful graph-based workflows. CrewAI is useful for role-based multi-agent collaboration.

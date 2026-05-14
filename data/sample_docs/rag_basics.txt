@@ -1,0 +1,1 @@
+Retrieval Augmented Generation, also called RAG, combines information retrieval with language generation. A retriever searches a knowledge base and returns relevant chunks. The LLM then uses those chunks to generate grounded answers. RAG is useful when the model needs private, recent, or domain-specific knowledge.
